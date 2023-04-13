@@ -5,7 +5,7 @@ namespace Ejercicio._03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese un número");
+            Console.WriteLine("Ingrese un número: ");
             int numInput = int.Parse(Console.ReadLine());
             //bool sePudo = int.TryParse(numIinput, out int resultado) vañida si se pudo parsear
             Console.WriteLine(ListarNumeroPrimo(numInput));
