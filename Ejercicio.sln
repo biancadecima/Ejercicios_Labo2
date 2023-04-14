@@ -53,6 +53,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsForm", "WindowsForm"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{FA816E33-397B-488B-90DD-AFD0FC62871F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingIn", "Registrate\SingIn.csproj", "{A3076219-73F6-4334-A988-C126F9C75664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entrant", "Ingresante\Entrant.csproj", "{8DFFBB7F-A7C0-498F-B999-F89453B8EB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{FA816E33-397B-488B-90DD-AFD0FC62871F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA816E33-397B-488B-90DD-AFD0FC62871F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA816E33-397B-488B-90DD-AFD0FC62871F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3076219-73F6-4334-A988-C126F9C75664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3076219-73F6-4334-A988-C126F9C75664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3076219-73F6-4334-A988-C126F9C75664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3076219-73F6-4334-A988-C126F9C75664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFFBB7F-A7C0-498F-B999-F89453B8EB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFFBB7F-A7C0-498F-B999-F89453B8EB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFFBB7F-A7C0-498F-B999-F89453B8EB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFFBB7F-A7C0-498F-B999-F89453B8EB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
